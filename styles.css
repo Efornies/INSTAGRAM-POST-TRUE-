@@ -1,0 +1,84 @@
+
+#background {
+    background-color: black;
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+}
+
+#card {
+    background-color: white;
+	width: 465.2px;
+	height: 560px;
+}
+
+#encabezado {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;    
+    height: 40px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+#log {
+    display: flex;
+    align-items:center;
+    margin-top: 0px;
+    margin-right: 5px;
+}
+
+#logo {
+    height: 23px;
+    width: 23px;
+}
+ 
+#titulo {
+ 
+    text-decoration: solid;
+    font-size: small;
+    
+}
+
+#puntos {
+    margin-left: auto;
+    margin-top: 5px;
+}
+
+#pie {
+
+}
+
+#iconos {
+    display:flex;
+  
+    height: 30px;
+    margin: 15px;
+    
+
+}
+
+#texto {
+    padding-top: 0.5px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#uno{
+    margin:5px;
+}
+#dos{
+    margin:5px;
+}
+
+#tres{
+    margin:5px;
+}
+
+#cuatro {
+   margin-left: auto;
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
